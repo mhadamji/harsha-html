@@ -1,0 +1,42 @@
+
+
+
+
+.page1image{
+    display:block;
+    float:right;
+    border-radius: 15px;
+}
+.page2image {    
+    float: left;
+    border-radius: 15px;
+    margin-right: 25px;;
+}
+h1{
+    background-color:#74BF43;    
+    color:white;
+    display:inline-block;
+    padding: 10px 25px 10px 15px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    width:800px;
+   padding-left: 20px;
+}
+.innerspan{
+    background-color: #74bf43;
+        border-radius: 15px;
+        padding: 0 7px;
+        color: white;
+        margin-left: -15px;        
+}
+h2{
+    margin: 0;
+        padding: 0;
+}
+p{
+    margin: 0;
+        padding: 0;
+}
+
